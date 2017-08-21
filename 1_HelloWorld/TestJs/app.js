@@ -1,0 +1,11 @@
+'use strict';
+
+// Hello World
+console.log('Hello world');
+
+var x = {
+    name: "hello",
+    birthplace: "world"
+};
+
+console.log(x.name + " " + x.birthplace);
